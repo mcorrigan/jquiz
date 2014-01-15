@@ -1,6 +1,6 @@
 jQuiz for jQuery ReadMe
 
-Thank you for purchasing jQuiz for jQuery. In this directory you will find several 
+In this directory you will find several 
 files and folders which have been created to give you an idea of how jQuiz can work. 
 This example uses PHP ActiveRecord library to quickly implement objects which relate 
 to records in the database. PHP ActiveRecord requires version PHP 5.3 or greater. 
@@ -154,14 +154,8 @@ Type 6 (Hot Spot)
 	Response JSON format array containing two points (x,y) of where the user clicked on the image
 
 TERMS & SUPPORT
-This software is provided as-is with no warranty. That being said, we really appreciate 
-your feedback and will assist you as time and circumstances permit. Please contact 
-mike@corrlabs.com if you have questions or need further assistance. 
-This standard licence does not authorize the buyer to share, lease, or resell jQuiz in any 
-form nor does it imply a transfer of ownership of the code in whole or part from 
-CorrLabs, LLC to the buyer. CorrLabs, LLC does not assume any responsibility or liability 
-for the code. All code is provided as-is. No warranty is expressed or implied. You understand 
-that you are using this software at your own risk. 
+CorrLabs, LLC does not assume any responsibility or liability for the code. All code is provided as-is. No warranty 
+is expressed or implied. You understand that you are using this software at your own risk. 
 
 CREDITS
 PHPActiveRecord is owned and MIT licensed by phpactiverecord.org. (http://www.phpactiverecord.org/)
