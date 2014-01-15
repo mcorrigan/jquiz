@@ -1,0 +1,20 @@
+VERSION 1.0.4
+	- Fixed bug when user would click on hotspot and page had been scrolled. Now uses the page X/Y instead of client X/Y to disregard scroll position.
+
+VERSION 1.0.3 BETA
+	- Reworked the README.txt file to make installation of the demo easier and provide an explaination of the jQuiz 
+		component and database structure.
+	- Improved the Hot Spot question to give more user feedback and maintain positioning when answer message displayed
+	- Updated documentation in jQuiz and throughout demo files
+	- Added language option to jQuiz which is relayed to the interface
+
+VERSION 1.0.3 ALPHA 
+	- Started logging changes between versions.
+	
+	
+COMING SOON (hopefully)
+	- Better error messages (play nice when interface is not accessible)
+	- Ability to disable showing the correct answer on structure (Kasem)
+	- Ability to review questions and answers after the quiz (Kasem)
+	- Ability to go backwards to previous quesitons (Kasem)
+	- Timer (Kasem)
